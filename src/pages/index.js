@@ -31,7 +31,7 @@ export default function Home({ propertiesForSale, propertiesForRent }) {
         imageUrl="https://bayut-production.s3.eu-central-1.amazonaws.com/image/145426814/33973352624c48628e41f2ec460faba4"
         purpose="RENT A HOME"
         title1="Rental Homes for"
-        title2="and more"
+        title2="Everyone"
         desc1="Explore Apartments, Villas, Homes"
         desc2="and more"
         linkName="/search?purpose=for-rent"
